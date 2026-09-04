@@ -65,7 +65,7 @@
             <rotationalPeriod>20000</rotationalPeriod>
             <biomeIds>advancedrocketry:hotdryrock,nuclearcraft:nuclear_wasteland</biomeIds>
 		</planet>
-		<planet name="Ptah" DIMID="149" customIcon="Venusian">
+		<planet name="Ptah" DIMID="149" customIcon="obsidian">
             <fogColor>0.4,0.3,0.0</fogColor>
             <skyColor>0.4,0.3,0.0</skyColor>
             <atmosphereDensity>20</atmosphereDensity>
